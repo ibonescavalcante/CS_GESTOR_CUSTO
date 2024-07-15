@@ -1,0 +1,17 @@
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.dll.config
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.dll.config
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\AcessoDados\obj\Debug\AcessoDados.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\AcessoDados\obj\Debug\AcessoDados.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\bin\Debug\AcessoDados.dll.config
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\bin\Debug\AcessoDados.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\bin\Debug\AcessoDados.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\obj\Debug\AcessoDados.csprojAssemblyReference.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\obj\Debug\AcessoDados.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\AcessoDados\obj\Debug\AcessoDados.pdb

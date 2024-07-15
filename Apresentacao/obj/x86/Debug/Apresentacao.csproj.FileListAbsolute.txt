@@ -1,0 +1,78 @@
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.exe
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastraReceita.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastroCustos.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmMenu.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmConsultaReceitas.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmConsultarGastos.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\RegraNegorcios.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\AcessoDados.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\RegraNegorcios.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\AcessoDados.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmRelatorio.resources
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\RdlCompile.cache
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\RdlCompile.compiled
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastraCentroCusto.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.exe.config
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.exe
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.exe
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\AcessoDados.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\RegraNegorcios.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\AcessoDados.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\bin\Debug\RegraNegorcios.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastraCentroCusto.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastraReceita.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastroCustos.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmConsultaReceitas.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmConsultarGastos.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmMenu.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmRelatorio.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csproj.GenerateResource.Cache
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\RdlCompile.cache
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\Apresentacao\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Casa\Desktop\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Casa\Desktop\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.exe
+C:\Users\Casa\Desktop\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Apresentacao.exe.config
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Apresentacao.exe
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Apresentacao.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\AcessoDados.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\RegraNegorcios.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\AcessoDados.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\AcessoDados.dll.config
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\RegraNegorcios.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csprojAssemblyReference.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastraCentroCusto.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastraReceita.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmCadastroCustos.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmConsultaReceitas.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmConsultarGastos.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmMenu.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.FrmRelatorio.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.Properties.Resources.resources
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csproj.GenerateResource.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.csproj.CopyComplete
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.exe
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\Apresentacao\obj\x86\Debug\Apresentacao.pdb

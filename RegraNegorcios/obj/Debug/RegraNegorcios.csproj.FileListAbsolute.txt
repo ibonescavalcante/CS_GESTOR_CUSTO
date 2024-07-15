@@ -1,0 +1,30 @@
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.csprojResolveAssemblyReference.cache
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\AcessoDados.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\AcessoDados.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\ObjetoTransferencia.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\bin\Debug\AcessoDados.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\bin\Debug\ObjetoTransferencia.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\bin\Debug\AcessoDados.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\bin\Debug\ObjetoTransferencia.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.csprojResolveAssemblyReference.cache
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\AcessoDados.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\ObjetoTransferencia.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\AcessoDados.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\AcessoDados.dll.config
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\bin\Debug\ObjetoTransferencia.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.csprojAssemblyReference.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.csproj.CoreCompileInputs.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.csproj.CopyComplete
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\RegraNegorcios\obj\Debug\RegraNegorcios.pdb

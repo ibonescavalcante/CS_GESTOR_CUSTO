@@ -1,0 +1,9 @@
+﻿------ Build started: Project: ObjetoTransferencia, Configuration: Debug Any CPU ------
+  ObjetoTransferencia -> C:\Users\not\Desktop\ProjetosCSHARP\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+------ Build started: Project: AcessoDados, Configuration: Debug Any CPU ------
+  AcessoDados -> C:\Users\not\Desktop\ProjetosCSHARP\Custos\AcessoDados\bin\Debug\AcessoDados.dll
+------ Build started: Project: RegraNegorcios, Configuration: Debug Any CPU ------
+  RegraNegorcios -> C:\Users\not\Desktop\ProjetosCSHARP\Custos\RegraNegorcios\bin\Debug\RegraNegorcios.dll
+------ Build started: Project: Apresentacao, Configuration: Debug x86 ------
+  Apresentacao -> C:\Users\not\Desktop\ProjetosCSHARP\Custos\Apresentacao\bin\Debug\Apresentacao.exe
+========== Build: 4 succeeded or up-to-date, 0 failed, 0 skipped ==========

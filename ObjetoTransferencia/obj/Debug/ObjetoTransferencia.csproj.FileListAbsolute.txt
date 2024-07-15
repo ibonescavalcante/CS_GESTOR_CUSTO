@@ -1,0 +1,14 @@
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\not\Desktop\ProjetosCSHARP\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+D:\BKUP24_08_2016\PROJETOS_ARQUIVADOS\PROJETOS_CSHARP\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojAssemblyReference.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+E:\BKUP\DESKTOP OLD\PROGRAMAÇAO\Custos\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
